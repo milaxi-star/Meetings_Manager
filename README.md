@@ -1,1 +1,1 @@
-you can find the Frontend folder here : https://github.com/milaxi-star/Gestion_des_visites
+you can find the Frontend folder here : https://github.com/milaxi-star/Meetings_Manager_Frontend
